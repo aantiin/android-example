@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragment1</string>
+
+    <!-- Properties -->
+    <string name="home_title">Home</string>
+    <string name="satu_title">Satu</string>
+    <string name="dua_title">Dua</string>
+</resources>
